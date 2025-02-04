@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Software Engineer<br>Love write code<br>Love Build utilities<br>
+I'm Software Engineer<br>Love write code<br>Love Build software<br>
 
 
 ## 🌐 Socials:
